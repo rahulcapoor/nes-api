@@ -1,0 +1,24 @@
+{
+  "name": "nse-api",
+  "version": "1.0.0",
+  "description": "this is a nse api to provide all algorithms and other data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulcapoor/nes-api.git"
+  },
+  "author": "rahul kapoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulcapoor/nes-api/issues"
+  },
+  "homepage": "https://github.com/rahulcapoor/nes-api#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "knex": "^0.21.1",
+    "mysql": "^2.18.1"
+  }
+}
